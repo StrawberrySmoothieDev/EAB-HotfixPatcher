@@ -1,1 +1,1 @@
-{"PHASE_TUTORIAL":"f:Interactions, queue_free","PHASE_MENU":"f:MainMenu->f:About, queue_free","PHASE_MAIN": "n:/root/LevelContainer/VoyagerMain/Space2/->f:Denjin, hide","PHASE_MSTATION":"f:Dorm2, set_scale, Vector3(100.0,100.0,100.0)"}
+{"PHASE_TUTORIAL":"f:Interactions, queue_free","PHASE_MENU":"f:MainMenu->f:About, queue_free","PHASE_MAIN": "n:/root/LevelContainer/VoyagerMain/Map/Space2/->f:Denjin, hide","PHASE_MSTATION":"f:Dorm2, set_scale, Vector3(100.0,100.0,100.0)"}
